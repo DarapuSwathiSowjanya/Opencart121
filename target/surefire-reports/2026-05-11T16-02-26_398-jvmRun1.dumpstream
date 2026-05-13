@@ -1,0 +1,9 @@
+# Created at 2026-05-11T16:02:34.592
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[2026-05-11 16:02:34] SelectedItemPaths=1'.
+
+# Created at 2026-05-11T16:02:34.594
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[2026-05-11 16:02:34] CanShowMenu=>true'.
+
+# Created at 2026-05-11T16:02:34.791
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[2026-05-11 16:02:34] Other File'.
+
